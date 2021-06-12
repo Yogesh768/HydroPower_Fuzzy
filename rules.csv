@@ -1,0 +1,26 @@
+Water Level,Flow Rate,Release Valve,Drain Valve
+Very Low,Very Slow,Fully Closed,Fully Closed
+Very Low,Slow,Fully Closed,Fully Closed
+Very Low,Normal,Fully Closed,Fully Closed
+Very Low,Fast,Fully Closed,Fully Closed
+Very Low,Very Fast,Fully Closed,Fully Closed
+Low,Very Slow,Fully Closed,Fully Closed
+Low,Slow,Fully Closed,Fully Closed
+Low,Normal,Fully Closed,Fully Closed
+Low,Fast,Fully Closed,Fully Closed
+Low,Very Fast,Fully Closed,Fully Closed
+Below Danger,Very Slow,Fully Closed,25% Opened
+Below Danger,Slow,25% Opened,25% Opened
+Below Danger,Normal,25% Opened,25% Opened
+Below Danger,Fast,50% Opened,50% Opened
+Below Danger,Very Fast,50% Opened,75% Opened
+Danger,Very Slow,50% Opened,50% Opened
+Danger,Slow,50% Opened,50% Opened
+Danger,Normal,75% Opened,Fully Opened
+Danger,Fast,75% Opened,Fully Opened
+Danger,Very Fast,75% Opened,Fully Opened
+Above Danger,Very Slow,75% Opened,75% Opened
+Above Danger,Slow,75% Opened,Fully Opened
+Above Danger,Normal,Fully Opened,Fully Opened
+Above Danger,Fast,Fully Opened,Fully Opened
+Above Danger,Very Fast,Fully Opened,Fully Opened
